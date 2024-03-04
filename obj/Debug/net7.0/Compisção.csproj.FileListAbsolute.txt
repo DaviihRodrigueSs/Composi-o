@@ -1,0 +1,14 @@
+C:\Users\daviu\Desktop\PROJETOS C# ORIENTAÇÃO A OBJETO\Compisção\obj\Debug\net7.0\Compisção.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daviu\Desktop\PROJETOS C# ORIENTAÇÃO A OBJETO\Compisção\obj\Debug\net7.0\Compisção.AssemblyInfoInputs.cache
+C:\Users\daviu\Desktop\PROJETOS C# ORIENTAÇÃO A OBJETO\Compisção\obj\Debug\net7.0\Compisção.AssemblyInfo.cs
+C:\Users\daviu\Desktop\PROJETOS C# ORIENTAÇÃO A OBJETO\Compisção\obj\Debug\net7.0\Compisção.csproj.CoreCompileInputs.cache
+C:\Users\daviu\Desktop\PROJETOS C# ORIENTAÇÃO A OBJETO\Compisção\bin\Debug\net7.0\Compisção.exe
+C:\Users\daviu\Desktop\PROJETOS C# ORIENTAÇÃO A OBJETO\Compisção\bin\Debug\net7.0\Compisção.deps.json
+C:\Users\daviu\Desktop\PROJETOS C# ORIENTAÇÃO A OBJETO\Compisção\bin\Debug\net7.0\Compisção.runtimeconfig.json
+C:\Users\daviu\Desktop\PROJETOS C# ORIENTAÇÃO A OBJETO\Compisção\bin\Debug\net7.0\Compisção.dll
+C:\Users\daviu\Desktop\PROJETOS C# ORIENTAÇÃO A OBJETO\Compisção\bin\Debug\net7.0\Compisção.pdb
+C:\Users\daviu\Desktop\PROJETOS C# ORIENTAÇÃO A OBJETO\Compisção\obj\Debug\net7.0\Compisção.dll
+C:\Users\daviu\Desktop\PROJETOS C# ORIENTAÇÃO A OBJETO\Compisção\obj\Debug\net7.0\refint\Compisção.dll
+C:\Users\daviu\Desktop\PROJETOS C# ORIENTAÇÃO A OBJETO\Compisção\obj\Debug\net7.0\Compisção.pdb
+C:\Users\daviu\Desktop\PROJETOS C# ORIENTAÇÃO A OBJETO\Compisção\obj\Debug\net7.0\Compisção.genruntimeconfig.cache
+C:\Users\daviu\Desktop\PROJETOS C# ORIENTAÇÃO A OBJETO\Compisção\obj\Debug\net7.0\ref\Compisção.dll
